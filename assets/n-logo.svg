@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="N logo">
+  <defs>
+    <linearGradient id="nGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6fe7ff"/>
+      <stop offset="100%" stop-color="#a98cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="30" fill="#071823"/>
+  <path d="M26 88V32h18l22 36V32h18v56H68L46 52v36H26z" fill="url(#nGrad)"/>
+</svg>
